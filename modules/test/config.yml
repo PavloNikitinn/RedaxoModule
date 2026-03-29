@@ -1,0 +1,8 @@
+title: "Test"
+description: "Test module for demonstration purposes"
+author: "Pavlo Nikitin"
+version: "1.1.2"
+redaxo_version: "5.13+"
+assets:
+  css: []
+  js: []
