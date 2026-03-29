@@ -1,0 +1,8 @@
+title: "WYSWYG (What you see what you get)"
+description: "WYSWYG (What you see what you get)"
+author: "Pavlo Nikitin"
+version: "1.0.0"
+redaxo_version: "5.13+"
+assets:
+  css: []
+  js: []
